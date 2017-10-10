@@ -1,6 +1,6 @@
 # write-html-NEXT.py
 
-f = open (' NEXT.html ' , ' w ')
+f = open ('NEXT.html' , 'w')
 
 message = """ <html>
 <head></head>
